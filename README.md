@@ -12,7 +12,7 @@ Passionate about **Blockchain** and **Cybersecurity**, I focus on secure and inn
 ---
 
 ### 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2308&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrei2308&layout=compact&theme=tokyonight)
 
 ---
 
