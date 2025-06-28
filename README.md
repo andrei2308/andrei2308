@@ -28,6 +28,7 @@ I'm a **Backend Engineer** currently working with **Java Spring Boot** to build 
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-239120?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
 
 **Tools & Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +44,7 @@ I'm a **Backend Engineer** currently working with **Java Spring Boot** to build 
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrei2308&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2308&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrei2308&show_icons=true&theme=tokyonight)
 
 </div>
@@ -52,15 +53,9 @@ I'm a **Backend Engineer** currently working with **Java Spring Boot** to build 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" alt="Seedling" width="25" height="25" /> What I'm Learning (In My Spare Time)
 
-<div align="center">
-  
-| Technology | Description | Progress |
-|------------|-------------|----------|
-| **Zero-Knowledge Proofs** | Privacy-preserving cryptography for blockchain applications | ![Progress](https://progress-bar.dev/65/?width=100) |
-| **Smart Contract Security** | Vulnerability analysis and secure Solidity development | ![Progress](https://progress-bar.dev/70/?width=100) |
-| **Red Teaming Techniques** | Offensive cybersecurity strategies and penetration testing | ![Progress](https://progress-bar.dev/75/?width=100) |
-
-</div>
+- **Zero-Knowledge Proofs** - Privacy-preserving cryptography for blockchain applications
+- **Smart Contract Security** - Vulnerability analysis and secure Solidity development
+- **Red Teaming Techniques** - Offensive cybersecurity strategies and penetration testing
 
 ---
 
