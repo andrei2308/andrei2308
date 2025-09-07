@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="35" height="35" /> Hi there! I'm Andrei
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRweW8ydnRieHh4b2x2c2NtcjFubjl5azcweWFtcGs3aHU1em8wcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oTjoawKEq3wYD5fKEh/giphy.gif" width="100" height="100" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=485&lines=Backend+Engineer+💻;Security+Enthusiast+🛡️;Blockchain+Explorer+⛓️;Powering+up+like+Goku!+⚡" alt="Typing SVG" />
 </div>
