@@ -70,8 +70,6 @@ Just like Goku, I never stop training and pushing my limits! 💪
 
 ---
 
-### <img src="https://media.giphy.com/media/3og0IExSrnfW2kUaaI/giphy.gif" width="25" height="25" /> Fun Facts - My Secret Techniques!
-
 <div align="center">
   <br/>
   
