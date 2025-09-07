@@ -3,12 +3,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRweW8ydnRieHh4b2x2c2NtcjFubjl5azcweWFtcGs3aHU1em8wcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oTjoawKEq3wYD5fKEh/giphy.gif" width="100" height="100" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=485&lines=Backend+Engineer+💻;Security+Enthusiast+🛡️;Blockchain+Explorer+⛓️;Powering+up+like+Goku!+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=485&lines=Backend+Engineer+💻;Cyber+Security+🛡️;Powering+up+like+Goku!+⚡" alt="Typing SVG" />
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxoMnpoNmg3cDB5MGV0bDFxYmJjNm1raWZocXloYXRhZzBzOWI1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aAbax5anloMNk6TSP9/giphy.gif" width="25" height="25" /> About Me
 
-I'm a **Backend Engineer** currently working with **Java Spring Boot** to build robust, scalable applications. Beyond my day-to-day development work, I maintain a deep passion for **Cybersecurity** and **Blockchain Technology**. I love exploring the intersection of secure software development and emerging technologies, constantly learning and experimenting with new concepts in my spare time.
+I'm a **Backend Engineer** currently working with **Java Spring Boot** to build robust, scalable applications. Beyond my day-to-day development work, I maintain a deep passion for **Cybersecurity**. I love exploring the intersection of secure software development and emerging technologies, constantly learning and experimenting with new concepts in my spare time.
 
 Just like Goku, I never stop training and pushing my limits! 💪
 
@@ -30,7 +30,7 @@ Just like Goku, I never stop training and pushing my limits! 💪
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Security & Blockchain - Training in the Hyperbolic Time Chamber! 🚀**  
+**Security - Training in the Hyperbolic Time Chamber! 🚀**  
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
