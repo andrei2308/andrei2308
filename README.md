@@ -60,30 +60,6 @@ Just like Goku, I never stop training and pushing my limits! 💪
 
 ---
 
-### <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25" height="25" /> What I'm Learning - Current Training Arc!
-
-- **Zero-Knowledge Proofs** - Privacy-preserving cryptography for blockchain applications 🔐
-- **Smart Contract Security** - Vulnerability analysis and secure Solidity development 🛡️
-- **Red Teaming Techniques** - Offensive cybersecurity strategies and penetration testing ⚔️
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" width="250" height="150" />
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="25" height="25" /> Recent Projects - My Greatest Battles!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="150" height="100" />
-</div>
-
-- **Enterprise REST API** - Scalable Spring Boot microservices with comprehensive security implementation 🏢
-- **Smart Contract Security Analyzer** - Personal project for automated vulnerability detection in Solidity 🔍
-- **Security Learning Lab** - Home lab setup for practicing penetration testing and blockchain security 🧪
-- 
----
-
 ### <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="25" height="25" /> Let's Connect - Join my Team!
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-chitoiu-896248207/)
