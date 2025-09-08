@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="35" height="35" /> Hi there! I'm Andrei
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hsdHhoMW5naXRlZWU2dGV4YzJvazUzbGQycDVqMDhmbHlmMGJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35" /> Hi there! I'm Andrei
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRweW8ydnRieHh4b2x2c2NtcjFubjl5azcweWFtcGs3aHU1em8wcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oTjoawKEq3wYD5fKEh/giphy.gif" width="100" height="100" />
@@ -18,7 +18,7 @@ Just like Goku, I never stop training and pushing my limits! 💪
 
 ---
 
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25" height="25" /> My Tech Stack
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN0azJmYnA4b2czN2RuNnF1cGVlMnEwaWtmMmlqZnB2cmswcHU2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4N5ddOOJJ7gtKTgNac/giphy.gif" width="25" height="25" /> My Tech Stack
 
 </br>
   
@@ -48,7 +48,7 @@ Just like Goku, I never stop training and pushing my limits! 💪
 
 ---
 
-### <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="25" height="25" /> GitHub Stats - Power Level Analysis!
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN0azJmYnA4b2czN2RuNnF1cGVlMnEwaWtmMmlqZnB2cmswcHU2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PV1dPfaeac5a/giphy.gif" width="25" height="25" /> GitHub Stats - Power Level Analysis!
 
 <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" height="150" />
@@ -60,7 +60,7 @@ Just like Goku, I never stop training and pushing my limits! 💪
 
 ---
 
-### <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="25" height="25" /> Let's Connect - Join my Team!
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aW9tbTB3Ym9qMzNzaXIzazh1bjY5eHBsOXI1Zml4Y3RvYWVidGc3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KVr0JbrdBp9KX644Bk/giphy.gif" width="25" height="25" /> Let's Connect - Join my Team!
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-chitoiu-896248207/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrei2308)
