@@ -17,6 +17,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGM0cTEyZHNjNmdlYjQzYXBzNHBtazhxb3J5MThoNGNkY281N25raCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"  />
 
 ###
