@@ -13,13 +13,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJtYWh5OGZ6YW1jN3VxeXpiNmZpZXE0dTFxMTFsdDRlY2Q3YTN5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGM0cTEyZHNjNmdlYjQzYXBzNHBtazhxb3J5MThoNGNkY281N25raCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"  />
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJtYWh5OGZ6YW1jN3VxeXpiNmZpZXE0dTFxMTFsdDRlY2Q3YTN5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
+</div>
 
 ###
 
@@ -43,6 +39,10 @@
 
 ###
 
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGM0cTEyZHNjNmdlYjQzYXBzNHBtazhxb3J5MThoNGNkY281N25raCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/@chitzoiu840" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="50" alt="youtube logo"  />
@@ -54,16 +54,16 @@
 
 ###
 
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=andrei2308&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&left_color=midnightblue&right_color=darkmagenta"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&left_color=midnightblue&right_color=darkmagenta"  />
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=andrei2308&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
 ###
