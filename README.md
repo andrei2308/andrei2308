@@ -12,8 +12,6 @@
 
 I'm a **Backend Engineer** currently working with **Java Spring Boot** to build robust, scalable applications. Beyond my day-to-day development work, I maintain a deep passion for **Cybersecurity**. I love exploring the intersection of secure software development and emerging technologies, constantly learning and experimenting with new concepts in my spare time.
 
-Just like Goku, I never stop training and pushing my limits! 💪
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF3OGg3bGMwaHNzOXI3emx2MTB1OGVmbTU2Ynprajg1bGg5MDF2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif" width="200" height="150" />
 
 ---
@@ -29,7 +27,7 @@ Just like Goku, I never stop training and pushing my limits! 💪
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Security - Training in the Hyperbolic Time Chamber! 🚀**  
+**Security ! 🚀**  
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,10 +38,11 @@ Just like Goku, I never stop training and pushing my limits! 💪
 
 **Tools & Others - My Utility Belt! 🔧**  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=reverbnation&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
 
 ---
 
