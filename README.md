@@ -1,71 +1,80 @@
-<div align="center">
+<h2 align="left">Hi 👋! My name is Andrei and I'm a Secure Software Engineer.</h2>
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hsdHhoMW5naXRlZWU2dGV4YzJvazUzbGQycDVqMDhmbHlmMGJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35" /> Hi there! I'm Andrei
+###
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRweW8ydnRieHh4b2x2c2NtcjFubjl5azcweWFtcGs3aHU1em8wcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oTjoawKEq3wYD5fKEh/giphy.gif" width="600" height="100" />
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXdndnd3cjE1MTJ3cDVmeGpoczY5eHZhMTg4bTF4enZxanplODRkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nmVrlqrleh3mE/giphy.gif"  />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=485&lines=Backend+Engineer+💻;Cyber+Security+🛡️;Powering+up+like+Goku!+⚡" alt="Typing SVG" />
+###
 
----
+<h4 align="left">Developing secure enterprise Java apps by day. Diving into reverse engineering and cryptography by night. 🔐</h4>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxoMnpoNmg3cDB5MGV0bDFxYmJjNm1raWZocXloYXRhZzBzOWI1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aAbax5anloMNk6TSP9/giphy.gif" width="25" height="25" /> About Me
+###
 
-I'm a **Backend Engineer** currently working with **Java Spring Boot** to build robust, scalable applications. Beyond my day-to-day development work, I maintain a deep passion for **Cybersecurity**. I love exploring the intersection of secure software development and emerging technologies, constantly learning and experimenting with new concepts in my spare time.
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF3OGg3bGMwaHNzOXI3emx2MTB1OGVmbTU2Ynprajg1bGg5MDF2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif" width="200" height="150" />
-
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN0azJmYnA4b2czN2RuNnF1cGVlMnEwaWtmMmlqZnB2cmswcHU2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4N5ddOOJJ7gtKTgNac/giphy.gif" width="25" height="25" /> My Tech Stack
-
-**Professional Stack - My Main Arsenal! ⚔️**  
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**Security ! 🚀**  
-
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-239120?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
-
-**Tools & Others - My Utility Belt! 🔧**  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=reverbnation&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
-
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN0azJmYnA4b2czN2RuNnF1cGVlMnEwaWtmMmlqZnB2cmswcHU2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PV1dPfaeac5a/giphy.gif" width="25" height="25" /> GitHub Stats - Power Level Analysis!
-
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" height="150" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2308&layout=compact&theme=tokyonight&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0D1117)
-
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aW9tbTB3Ym9qMzNzaXIzazh1bjY5eHBsOXI1Zml4Y3RvYWVidGc3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KVr0JbrdBp9KX644Bk/giphy.gif" width="25" height="25" /> Let's Connect - Join my Team!
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-chitoiu-896248207/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrei2308)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chitoiu.andrei2@yahoo.com)
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&color=ff6b35&style=for-the-badge)
-
-<br/>
-
-**Thanks for visiting! Keep training and never give up! 🔥**
-
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei2308&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJtYWh5OGZ6YW1jN3VxeXpiNmZpZXE0dTFxMTFsdDRlY2Q3YTN5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="70" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="70" alt="gcc logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="70" alt="debian logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="70" alt="neovim logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/solidity/363636" height="70" alt="solidity logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/andrei2308/andrei2308/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGM0cTEyZHNjNmdlYjQzYXBzNHBtazhxb3J5MThoNGNkY281N25raCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@chitzoiu840" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="90" height="70" alt="youtube logo"  />
+  </a>
+  <a href="discordapp.com/users/272020370331009024" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="90" height="70" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&left_color=midnightblue&right_color=darkmagenta"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=andrei2308&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
+
+###
