@@ -6,20 +6,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2308&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei2308&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJtYWh5OGZ6YW1jN3VxeXpiNmZpZXE0dTFxMTFsdDRlY2Q3YTN5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
 
 ###
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJtYWh5OGZ6YW1jN3VxeXpiNmZpZXE0dTFxMTFsdDRlY2Q3YTN5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="50" alt="spring logo"  />
@@ -35,6 +26,15 @@
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="50" alt="neovim logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="50" alt="solidity logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei2308&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei2308&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
