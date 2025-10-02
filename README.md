@@ -47,8 +47,11 @@
   <a href="https://www.youtube.com/@chitzoiu840" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="75" height="60" alt="youtube logo"  />
   </a>
-  <a href="discordapp.com/users/272020370331009024" target="_blank">
+  <a href="https://www.discordapp.com/users/272020370331009024" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="60" alt="discord logo"  />
+  </a>
+  <a href="https://app.hackthebox.com/profile/2254065" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fredtiseg.com%2Fwp-content%2Fuploads%2F2022%2F08%2FHTB-Logo-Verticall_RGB_DarkText_1024-1024x614.png&f=1&nofb=1&ipt=82e1b55d54e0c925052a597dd604efcb1f6dfadc2aaf347cabf1823f8ee4d3cf" width="100" height="50" alt="hack the box logo"/>    
   </a>
 </div>
 
