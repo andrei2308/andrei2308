@@ -15,7 +15,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="40" alt="postgresql logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="15" />
