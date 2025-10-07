@@ -23,7 +23,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain-wordmark.svg" height="40" alt="neovim logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
 </div>
