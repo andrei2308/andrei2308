@@ -60,6 +60,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&left_color=midnightblue&right_color=darkmagenta&left_text=stalkers"  />
 </div>
+<h4 align="center">"Some things will never change" - Tupac Shakur</h4>
 
 ###
 
