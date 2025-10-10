@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Developing secure enterprise Java apps by day. Diving into reverse engineering and cryptography by night. 🔐</h4>
+<h4 align="left">Developing secure enterprise Java apps by day. Diving into reverse engineering and cryptography by night. 🔐 Security development engineer and CTF player specializing in reverse engineering and cryptography. I build defensible enterprise systems while constantly testing my skills by breaking things.</h4>
 
 ###
 
