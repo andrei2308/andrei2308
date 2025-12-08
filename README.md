@@ -36,11 +36,6 @@
 <br clear="both">
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2308&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei2308&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRxZzRmdThjNmtnNjY1anB1c3dlOGs3eWI2amY1M2VleW9uM2l0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/140exlTwGNgm3u/giphy.gif"  />
