@@ -55,9 +55,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&left_color=midnightblue&right_color=darkmagenta&left_text=stalkers"  />
 </div>
-<h4 align="center">"Ca toti ramanem blocati intre ziduri
+<h4 align="center">"Hey you, out there in the cold
   <br>
-Cand eram mici noi nu stiam de ce-aveti riduri" - Nimeni Altu'</h4>
+Getting lonely, getting old, can you feel me?"</h4>
 
 ###
 
