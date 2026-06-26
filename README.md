@@ -10,10 +10,6 @@
 <br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="40" alt="postgresql logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -23,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain-wordmark.svg" height="40" alt="neovim logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
 </div>
 
 ###
