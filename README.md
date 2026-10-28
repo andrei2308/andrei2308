@@ -53,12 +53,3 @@ offensive security, firmware, binaries, protocols
 <br>
 
 <sub><i>~ break it, learn from it ~</i></sub>
-
-<br>
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=andrei2308.andrei2308&left_color=2b2438&right_color=ffb7d5&left_text=visitors" alt="visitor counter" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8a1ff,100:ffb7d5&height=120&section=footer" alt="footer wave" />
-
-</div>
