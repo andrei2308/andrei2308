@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7d5,100:b8a1ff&height=200&section=header&text=andrei2308&fontSize=52&fontColor=ffffff&fontAlignY=50" alt="unsigned bit banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7d5,100:b8a1ff&height=150&section=header&text=andrei2308&fontSize=52&fontColor=ffffff&fontAlignY=50" alt="unsigned bit banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFB7D5&center=true&vCenter=true&width=480&lines=offensive+security;pentesting+%C2%B7+reverse+engineering;malware+analysis+%C2%B7+bug+bounty;breaking+things+to+understand+them" alt="typing animation" />
 
